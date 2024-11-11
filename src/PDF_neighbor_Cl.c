@@ -6,8 +6,8 @@
 #define LINESIZE 256
 #define MAXTIMESTEP 100000
 #define NUMBINS 1000
-#define NUMSHELL 6
-#define H_STAR 2.0
+#define NUMSHELL 10
+#define H_STAR 3.5
 #define DELTA_T 1
 
 int numTraj;

@@ -7,7 +7,7 @@
 #define MAXTIMESTEP 100000
 #define NUMBINS 1000
 #define NUMSHELL 6
-#define MAX_H 3.0
+#define MAX_H 5.0
 #define DELTA_T 1
 
 int numTraj;
